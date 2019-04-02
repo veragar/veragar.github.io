@@ -1,2 +1,2 @@
 # Вера Гар
-[Мой_первый_сайт][https://veragar.github.io/site/]
+[Мой_первый_сайт][https://veragar.github.io/site/index.html]
